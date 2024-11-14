@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student learning IT and Web design
 ----------------------------------
 
-Currently in my first year of IT and web design in Nösnäsgymnasiets information and media technology course
+Currently in my third and last year of IT and web design in Nösnäsgymnasiets information and media technology course
 
 *   🌍  I'm based in Stenungsund, SE
 *   ✉️  You can contact me at [sam.hartelius@icloud.com](mailto:sam.hartelius@icloud.com)
