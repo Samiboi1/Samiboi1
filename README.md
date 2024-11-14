@@ -8,7 +8,7 @@ Currently in my first year of IT and web design in Nösnäsgymnasiets informatio
 
 *   🌍  I'm based in Stenungsund, SE
 *   ✉️  You can contact me at [sam.hartelius@icloud.com](mailto:sam.hartelius@icloud.com)
-   <a href="https://www.twitch.tv/Antimatter2063" target="_blank" rel="noreferrer"><img
+*   <a href="https://www.twitch.tv/Antimatter2063" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/Antimatter2063?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" /></a>
                   
                   
